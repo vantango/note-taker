@@ -4,7 +4,7 @@
 ## Description: 
 This is an app that keeps track of the information entered by the user and stores it as notes that can be saved or deleted. It utilizes Node and Express for full frontend-backend functionality.
 
-
+<img src="https://github.com/vantango/note-taker/blob/main/public/assets/images/note-taker.png?raw=true">
 
 ## Table of Contents
 - [Installation](#Installation)
