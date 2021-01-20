@@ -15,7 +15,8 @@ This is an app that keeps track of the information entered by the user and store
 - [Questions](#Questions)
             
 ### Installation: 
- Perform install procedure for ExpressJS.
+ Perform install procedure for ExpressJS package.
+ Perform install procedue for UUID package.
             
 ### Usage: 
 N/A

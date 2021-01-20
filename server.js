@@ -44,7 +44,6 @@ app.post("/api/notes", (req, res) => {
         const newNote = [...noteData, note];
         JSON.stringify(newNote);
         res.send(newNote);
-
         fs.writeFile(path.join(__dirname, "./db/db.json"), JSON.stringify(newNote), (err, data) => {
             if (err) { throw err };
         });
@@ -75,5 +74,5 @@ app.delete("/api/notes/:id", (req, res) => {
 
 // Sets up where the server port is listening
 app.listen(PORT, function () {
-    console.log("testing port");
+    console.log(`Listening on port ${PORT}`);
 });
