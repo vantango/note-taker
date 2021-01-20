@@ -15,8 +15,8 @@ This is an app that keeps track of the information entered by the user and store
 - [Questions](#Questions)
             
 ### Installation: 
- Perform install procedure for ExpressJS package.
- Perform install procedue for UUID package.
+ * Perform install procedure for [ExpressJS](https://www.npmjs.com/package/express) package.
+ * Perform install procedue for [UUID](https://www.npmjs.com/package/uuid) package.
             
 ### Usage: 
 N/A
@@ -37,6 +37,10 @@ N/A
             
 ### Tests: 
 N/A
+
+### Deployment:
+[Heroku](https://frozen-dawn-97390.herokuapp.com/)
+[GitHub Repository](https://github.com/vantango/note-taker#installation)
             
 ### Questions:
 Find me on GitHub at: https://github.com/vantango
