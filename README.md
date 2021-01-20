@@ -40,6 +40,7 @@ N/A
 
 ### Deployment:
 [Heroku](https://frozen-dawn-97390.herokuapp.com/)
+
 [GitHub Repository](https://github.com/vantango/note-taker#installation)
             
 ### Questions:
